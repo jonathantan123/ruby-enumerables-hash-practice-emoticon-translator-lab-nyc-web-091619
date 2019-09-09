@@ -5,7 +5,8 @@ def load_library (file_path)
   emoticon = YAML.load_file("./lib/emoticons.yml")
   emoticon_library= { "get_meaning" => {}, "get_emoticon" => {} }
   
-  emoticon.each do 
+  emoticon.each do |meaning, symbol|
+    
 end 
 
 
