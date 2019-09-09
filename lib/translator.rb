@@ -10,7 +10,7 @@ def load_library (file_path)
   ja= emoticon[1]
   
   emoticon_library[get_meaning][ja]= meaning 
-  emoticon_library[get_emoticon][en]= 
+  emoticon_library[get_emoticon][en]= ja 
 end 
 
 
