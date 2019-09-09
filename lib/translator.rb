@@ -11,7 +11,6 @@ def load_library (file_path)
   
   emoticon_library[get_meaning][ja]= meaning 
   emoticon_library[get_emoticon][en]= ja 
-end
 
 end 
 
