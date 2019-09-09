@@ -13,6 +13,7 @@ def load_library (file_path)
   emoticons_library[get_emoticon][en]= ja
   
 end
+emoticons
 end 
 
 
