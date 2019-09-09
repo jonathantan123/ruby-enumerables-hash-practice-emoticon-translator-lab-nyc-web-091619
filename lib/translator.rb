@@ -11,8 +11,8 @@ def load_library (file_path)
   en = symbol[0]
   ja= symbol[1]
   
-  emoticon_library["get_meaning"]["ja"]= meaning 
-  emoticon_library["get_emoticon"]["en"]= ja
+  emoticon_library["get_meaning"][ja]= meaning 
+  emoticon_library["get_emoticon"][en]= ja
   
 end
 emoticons
