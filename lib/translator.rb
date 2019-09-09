@@ -9,8 +9,8 @@ def load_library (file_path)
   en = emoticon[0]
   ja= emoticon[1]
   
-  emoticons_library["get_meaning"][ja]= meaning 
-  emoticons_library["get_emoticon"][en]= ja
+  emoticon_library["get_meaning"][ja]= meaning 
+  emoticon_library["get_emoticon"][en]= ja
   
 end
 emoticons
