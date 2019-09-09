@@ -9,6 +9,7 @@ def load_library (file_path)
   en = emoticon[0]
   ja= emoticon[1]
   
+  
 end 
 
 
