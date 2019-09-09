@@ -7,7 +7,8 @@ def load_library (file_path)
   
   emoticon.each do |meaning, symbol|
   en = emoticon[0]
-  ja= emoticon[]
+  ja= emoticon[1]
+  
 end 
 
 
