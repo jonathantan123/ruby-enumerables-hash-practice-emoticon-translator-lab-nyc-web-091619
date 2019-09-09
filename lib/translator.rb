@@ -9,8 +9,8 @@ def load_library (file_path)
   "get_emoticon" => {} }
   
   emoticons.each do |meaning, symbol|
-  en = emoticon[0]
-  ja= emoticon[1]
+  en = emoticons[0]
+  ja= emoticons[1]
   
   emoticon_library["get_meaning"]["ja"]= meaning 
   emoticon_library["get_emoticon"]["en"]= ja
